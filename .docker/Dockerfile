@@ -56,12 +56,8 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
   python3-venv \
   qpdf \
   tesseract-ocr \
-  tesseract-ocr-chi-sim \
-  tesseract-ocr-deu \
+  tesseract-ocr-ita \
   tesseract-ocr-eng \
-  tesseract-ocr-fra \
-  tesseract-ocr-por \
-  tesseract-ocr-spa \
   unpaper \
   wget
 
